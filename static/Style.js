@@ -10,7 +10,7 @@ export default <style>{`
   header {
     font-size:64pt;
     font-weight:bold;
-    text-align:right;
+    text-align:center;
     letter-spacing:-8px;
     color:#ddddff;
     margin:-32px 5px;
