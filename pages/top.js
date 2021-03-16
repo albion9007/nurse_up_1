@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Layout from '../static/Layout';
-import Header from '../components/Top_page/Header';
-import Footer from '../components/Top_page/Footer';
+import Header from '../static/Header';
+import Footer from '../static/Footer';
 
 
 export default () =>(

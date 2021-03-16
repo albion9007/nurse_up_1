@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Head from 'next/head';
-import Header from '../components/Top_page/Header';
-import Footer from '../components/Top_page/Footer';
+import Header from './Header';
+import Footer from './Footer';
 import style from '../static/Style';
 
 
