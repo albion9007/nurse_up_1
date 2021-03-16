@@ -1,11 +1,11 @@
 import Link from 'next/link';
 import Layout from '../static/Layout';
 import Header from '../components/Top_page/Header';
+import Footer from '../components/Top_page/Footer';
+
 
 export default () =>(
-  <Layout
-   title="Nurse UP 市場価値の高い看護師になる"
-   header="">
+  <Layout>
     {/* <Address />
     <hr/>
     <div>

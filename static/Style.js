@@ -18,14 +18,20 @@ export default <style>{`
   footer {
     color:#99c;
     font-size:12pt;
-    text-align:right;
+    text-align:center;
     border-bottom:1px solid #99c;
     margin:50px 0px 10px 0px;
-    position: relative;
+    position: absolute;
     bottom: 10px;
     right: 10px;
     left: 10px;
   }
+
+  footer div {
+    display: inline-block;
+  margin:10px;
+  }
+  
   h1 {
     font-size:22pt;
     font-weight:bold;

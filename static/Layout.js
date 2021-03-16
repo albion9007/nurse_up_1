@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Head from 'next/head';
 import Header from '../components/Top_page/Header';
-// import Footer from '../components/Footer';
+import Footer from '../components/Top_page/Footer';
 import style from '../static/Style';
 
 
@@ -19,10 +19,11 @@ class Layout extends Component {
           content='initial-scale=1.0, width=device-width' />
       </Head>
       {style}
-      <Header header={this.props.header}
-      title={this.props.title} />
+      <Header title="Nurse UP 市場価値の高い看護師になる"
+       header="" />
       {this.props.children}
-      {/* <Footer footer="copyright SYODA-Tuyano."/> */}
+      <Footer title="Nurse UP 市場価値の高い看護師になる" recruit="看護師の転職サイト"
+       qualification="資格を取る" seminor="セミナー案内" questionnaire="アンケート"/>
     </div>);
   }
 
