@@ -33,8 +33,8 @@ const Business_block = () => {
         <div>{"接遇"}</div>
         <div>{"呼吸器の管理"}</div>
         <div className={classes.title}>{"看護師のスキルアップ指導を出張して行います"}</div>
-        <div class="menta-serch-box">
-          <button className={classes.button}>{"メンターさんに出張指導に来てもらう"}</button>
+        <div className={classes.position2}>
+          <button className={classes.button2}>{"メンターさんに出張指導に来てもらう"}</button>
         </div>
       </business>
   </div>

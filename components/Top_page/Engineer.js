@@ -10,8 +10,8 @@ const Engineer = () => {
         <div>{"エンジニアがメンターーさんの要望をヒアリング、"}</div>
         <div>{"PCベースでカリキュラムを"}</div>
         <div>{"閲覧できるように作成します"}</div>
-        <div class="menta-serch-box">
-          <button className={classes.button}>{"エンジニアに相談する"}</button>
+        <div className={classes.position1}>
+          <button className={classes.button3}>{"エンジニアに相談する"}</button>
         </div>
       </engineer>
   </div>

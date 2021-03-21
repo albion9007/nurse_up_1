@@ -15,8 +15,7 @@
   font-weight: bold;
   color: #0097a7;
 }
-.button{
-  /* justify-content: space-between; */
+.button1{
   margin: 20px;
   border-radius: 20px;
   border: 2px solid #4fb3bf;
@@ -29,4 +28,32 @@
 }
 .position1{
   text-align:right;
+}
+
+.button2{
+  margin: 20px;
+  border-radius: 20px;
+  border: 2px solid #4fb3bf;
+  width: 190px;
+  height: 80px;
+  background-color: #00838f;
+  color: aliceblue;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.position2{
+  text-align:left;
+}
+
+.button3{
+  margin: 20px;
+  border-radius: 20px;
+  border: 2px solid #4fb3bf;
+  width: 150px;
+  height: 80px;
+  background-color: #00838f;
+  color: aliceblue;
+  font-size: 16px;
+  font-weight: bold;
 }

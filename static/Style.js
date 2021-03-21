@@ -7,30 +7,8 @@ export default <style>{`
     padding:5px;
     color:#669;
   }
-  header {
-    font-size:64pt;
-    font-weight:bold;
-    text-align:center;
-    letter-spacing:-8px;
-    color:#ddddff;
-    margin:-32px 5px;
-  }
-  footer {
-    color:#99c;
-    font-size:12pt;
-    text-align:center;
-    border-bottom:1px solid #99c;
-    margin:50px 0px 10px 0px;
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
-    left: 10px;
-  }
-
-  footer div {
-    display: inline-block;
-  margin:10px;
-  }
+  
+  
   
 
 
