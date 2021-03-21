@@ -1,0 +1,32 @@
+.Nayamiblock {
+    background-color: #e0f7fa;
+    color: #00acc1;
+    text-align:left;
+    box-sizing: border-box;
+    width: 650px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid #4fb3bf;
+}
+.title{
+  text-align:center;
+  font-size: large;
+  font-weight: bold;
+  color: #0097a7;
+}
+.button{
+  /* justify-content: space-between; */
+  margin: 20px;
+  border-radius: 20px;
+  border: 2px solid #4fb3bf;
+  width: 180px;
+  height: 80px;
+  background-color: #00838f;
+  color: aliceblue;
+  font-size: 16px;
+  font-weight: bold;
+}
+.position1{
+  text-align:right;
+}

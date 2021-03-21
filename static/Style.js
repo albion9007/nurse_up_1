@@ -32,38 +32,7 @@ export default <style>{`
   margin:10px;
   }
   
-  nayami {
-    height: calc(100vh - 100px);
-    background-color: #ffffff42;
-    color: #00acc1;
-    text-align:center;
-    box-sizing: border-box;
-    width: 500px;
-    height: 400px;
-    background: #ccc;
-  }
 
-  business {
-    height: calc(100vh - 100px);
-    background-color: #ffffff42;
-    color: #00acc1;
-    text-align:center;
-    box-sizing: border-box;
-    width: 500px;
-    height: 400px;
-    background: #ccc;
-  }
-
-  engineer {
-    height: calc(100vh - 100px);
-    background-color: #ffffff42;
-    color: #00acc1;
-    text-align:center;
-    box-sizing: border-box;
-    width: 500px;
-    height: 400px;
-    background: #ccc;
-  }
 
 
 
